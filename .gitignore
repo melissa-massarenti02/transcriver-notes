@@ -1,0 +1,7 @@
+```text
+.venv/
+__pycache__/
+images/
+output.tex
+*.pptx
+*.pdf
